@@ -1,0 +1,2 @@
+sous windown : Effectuer la commande pip install requests dans votre cmd
+et la commande pip install iplookup avant de lancer l'application
